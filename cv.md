@@ -53,7 +53,7 @@ Now i working in __SagTech__ company - it is  little but very purposeful company
 
 ## Education
 
-===
+
 
 * Courses: 
      + [It-academy](https://www.it-academy.by/)
