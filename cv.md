@@ -1,6 +1,6 @@
 # Ivan Kurilenok
 ***********
-### Contacts
+## Contacts
 
 ***********
 * Location: Minsk, Belarus
@@ -8,7 +8,7 @@
 * Email: spell20044@gmail.com
 * GitHub: [c13rryy](https://github.com/c13rryy)
 
-### About me
+## About me
 
 ***********
 I have a lot motivation to practice and develop my skills 
@@ -17,7 +17,7 @@ Now i working in __SagTech__ company - it is  little but very purposeful company
 
 ***********
 
-### Skills
+## Skills
 
 ***********
 
@@ -26,7 +26,7 @@ Now i working in __SagTech__ company - it is  little but very purposeful company
 * JS(Basic)
 * GIT
 
-### Code Example
+## Code Example
 
 ***********
 
@@ -36,7 +36,7 @@ Now i working in __SagTech__ company - it is  little but very purposeful company
 }
 
 
-### Experience
+## Experience
 
 ***********
 
@@ -45,7 +45,7 @@ Now i working in __SagTech__ company - it is  little but very purposeful company
 * goTube - (Html,TailwindCss,js)
 
 
-### Education
+## Education
 
 ===
 
@@ -53,7 +53,7 @@ Now i working in __SagTech__ company - it is  little but very purposeful company
      + [It-academy](https://www.it-academy.by/)
      + SelfStudy
 
-### English 
+## English 
 
 ***********
 
