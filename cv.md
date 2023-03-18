@@ -30,11 +30,11 @@ Now i working in __SagTech__ company - it is  little but very purposeful company
 
 ***********
 
- async function allProducts() {
-    const response = await fetch('https://dummyjson.com/products');
-    return response.json();
-}
+ function sum(a,b){
+    return a + b;
+ }
 
+ sum(2,3);
 
 ## Experience
 
