@@ -11,8 +11,10 @@
 ## About me
 
 ***********
-I have a lot motivation to practice and develop my skills 
+I have a lot motivation to practice and develop my skills
+
 I am sensible and ambitious person
+
 Now i working in __SagTech__ company - it is  little but very purposeful company
 
 ***********
